@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 
-Backend engineer with 3 years of experience in real-time data systems, now studying for my Master's in Computer Science at the University of Ottawa. I build fast, reliable services with Java, Spring Boot, Kafka, and Redis, and I'm applying that foundation to LLM agents and RAG pipelines that produce grounded, verifiable answers.
+Backend engineer focused on Java and Spring Boot, with hands-on experience building real-time data services. I've worked on live projects using Docker and Kubernetes, along with tools like Kafka and Redis. I'm also working with LLMs and RAG pipelines and continuing to deepen my knowledge of applied AI. I'm currently pursuing a Master's in Computer Science at the University of Ottawa.
 
 ## Technical skills
 
